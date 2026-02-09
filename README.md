@@ -1,9 +1,5 @@
 <h2 align="left">Hi there!</h2>
 
-###
-
-<h4 align="left">I'm a Computer Science student focusing on Cybersecurity and Penetration Testing.</h4>
-
   <p align="center">
     <a href="https://gh-most-followed.pages.dev/egypt">
       <img src="https://img.shields.io/badge/14ᵗʰ Most Followed User 🇪🇬-282830?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
@@ -13,9 +9,6 @@
 
 <h1 align="center">I'm Mohamed Saad</h1>
 <h2 align="center">Penetration Tester</h2>
-
-<div align="center">
-  <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
     
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
@@ -28,7 +21,7 @@
   </p>
   
   <p>
-    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=0xSa3d"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/></a>
   </p>
 
